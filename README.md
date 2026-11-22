@@ -33,6 +33,10 @@ Tested on MetaTrader 4 build 1492.
 
 DLL imports are needed only for one system call (`PostMessage`). The source is open, read it before you allow it.
 
+### Licence
+
+MIT, see [LICENSE](LICENSE).
+
 ## Русский
 
 Советник для **MetaTrader 4**, который включает и выключает кнопку **«Алго-трейдинг»** на панели инструментов. Он ничего не торгует, не читает данные счёта и не использует сеть.
@@ -63,3 +67,7 @@ MQL4 не позволяет нажать эту кнопку напрямую. 
 ### Безопасность
 
 Импорт DLL нужен только ради одного системного вызова (`PostMessage`). Исходный код открыт, прочтите его перед тем, как разрешать.
+
+### Лицензия
+
+MIT, см. [LICENSE](LICENSE).
